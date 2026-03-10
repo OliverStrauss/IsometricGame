@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGraphics.csproj": {}
+    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/IsometricGraphics.csproj": {}
   },
   "projects": {
-    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGraphics.csproj": {
+    "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/IsometricGraphics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGraphics.csproj",
+        "projectUniqueName": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/IsometricGraphics.csproj",
         "projectName": "IsometricGraphics",
-        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGraphics.csproj",
+        "projectPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/IsometricGraphics.csproj",
         "packagesPath": "/Users/oliverstrauss/.nuget/packages/",
-        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/obj/",
+        "outputPath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oliverstrauss/.nuget/NuGet/NuGet.Config"

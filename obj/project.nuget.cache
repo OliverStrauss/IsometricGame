@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6LfzvPcCS3Y=",
+  "dgSpecHash": "BNfIlC4btQo=",
   "success": true,
-  "projectFilePath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGraphics.csproj",
+  "projectFilePath": "/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/IsometricGraphics.csproj",
   "expectedPackageFiles": [
     "/Users/oliverstrauss/.nuget/packages/bepuphysics/2.4.0/bepuphysics.2.4.0.nupkg.sha512",
     "/Users/oliverstrauss/.nuget/packages/bepuutilities/2.4.0/bepuutilities.2.4.0.nupkg.sha512",
