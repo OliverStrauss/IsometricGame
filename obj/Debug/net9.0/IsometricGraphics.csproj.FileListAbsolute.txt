@@ -1,0 +1,46 @@
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/New Piskel (10).xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/New Piskel (11).xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/New Piskel (9).xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/IsometricGraphics
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/IsometricGraphics.deps.json
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/IsometricGraphics.runtimeconfig.json
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/IsometricGraphics.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/IsometricGraphics.pdb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/BepuPhysics.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/BepuUtilities.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/MonoGame.Framework.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/NVorbis.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/android-arm/native/libopenal.so
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/android-arm64/native/libopenal.so
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/android-x64/native/libopenal.so
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/android-x86/native/libopenal.so
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/ios-arm64/native/libopenal.a
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/iossimulator-arm64/native/libopenal.a
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/iossimulator-x64/native/libopenal.a
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/linux-arm64/native/libopenal.so
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/linux-x64/native/libopenal.so
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/osx/native/libopenal.dylib
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/win-x64/native/openal.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/runtimes/win-x64/native/SDL2.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/mgcb.tool.restore
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.csproj.AssemblyReference.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.AssemblyInfoInputs.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.AssemblyInfo.cs
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.csproj.CoreCompileInputs.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.sourcelink.json
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/Isometri.F3383DF6.Up2Date
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/refint/IsometricGraphics.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.pdb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/IsometricGraphics.genruntimeconfig.cache
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/obj/Debug/net9.0/ref/IsometricGraphics.dll
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/Support.xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/Support2.xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/Support3.xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/New Piskel (10) (1).xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/New Piskel (10) (2).xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/DinoCharacter.xnb
+/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/bin/Debug/net9.0/Content/New Piskel (12).xnb

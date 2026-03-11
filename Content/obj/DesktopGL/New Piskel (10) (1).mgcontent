@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (10).png</SourceFile>
-  <SourceTime>2026-03-10T11:14:14.2337649-05:00</SourceTime>
-  <DestFile>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/bin/DesktopGL/Content/New Piskel (10).xnb</DestFile>
-  <DestTime>2026-03-10T11:32:29.864025-05:00</DestTime>
+  <SourceFile>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (10) (1).png</SourceFile>
+  <SourceTime>2026-03-11T13:18:07.7864946-05:00</SourceTime>
+  <DestFile>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/bin/DesktopGL/New Piskel (10) (1).xnb</DestFile>
+  <DestTime>2026-03-11T13:19:55.6446926-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-10-20T09:25:32-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

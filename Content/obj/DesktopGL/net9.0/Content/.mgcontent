@@ -4,11 +4,25 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/Content/New Piskel (10).png</File>
-    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/Content/New Piskel (11).png</File>
-    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/Content/New Piskel (9).png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/DinoCharacter.png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (10) (1).png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (10) (2).png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (10).png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (11).png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (12).png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/New Piskel (9).png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/Support.png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/Support2.png</File>
+    <File>/Users/oliverstrauss/Documents/COMPUTER_SCIENCE/classes/JuniorYear/SECOND_SEM/MonoGames/HW2/Isometric graphics/IsometricGame/Content/Support3.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
